@@ -2,6 +2,8 @@
 #include "Poco/URI.h"
 #include "Poco/Dynamic/Var.h"
 
+Hello master
+
 ResultHandler::ResultHandler(ServiceManager& serviceManager)
 	: _serviceManager(serviceManager)
 	, _logger(Poco::Util::Application::instance().logger())
