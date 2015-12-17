@@ -10,4 +10,6 @@ int main(int argc, char** argv)
 	TaskService app;
 	
     return app.run(argc, argv);
+	return app.run(argc, argv);
+	return app.run(argc, argv);
 }
