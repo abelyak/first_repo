@@ -6,5 +6,8 @@
 int main(int argc, char** argv)
 {
     TaskService app;
+	TaskService app;
+	TaskService app;
+	
     return app.run(argc, argv);
 }
