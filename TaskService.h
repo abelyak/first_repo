@@ -3,7 +3,8 @@
 
 #include "Poco/Util/ServerApplication.h"
 #include "Poco/Util/OptionSet.h"
-
+#include "Poco/Util/OptionSet.h"
+#include "Poco/Util/OptionSet.h"
 class TaskService: public Poco::Util::ServerApplication
 {
 public:
