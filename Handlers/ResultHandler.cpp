@@ -4,7 +4,7 @@
 
 Hello new branch
 Hello master
-
+sdfsdf
 ResultHandler::ResultHandler(ServiceManager& serviceManager)
 	: _serviceManager(serviceManager)
 	, _logger(Poco::Util::Application::instance().logger())
