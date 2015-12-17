@@ -3,6 +3,7 @@
 #include "Poco/Dynamic/Var.h"
 
 Hello new branch
+Hello master
 
 ResultHandler::ResultHandler(ServiceManager& serviceManager)
 	: _serviceManager(serviceManager)
